@@ -1,5 +1,5 @@
 # Procesamiento de Imagenes para radiografias de columna vertebral
-
+### Implementado en Python
 ## Consigna:
   Mediante el uso de la libreria OpenCV y las que sean necesarias, crear un procesador de imagenes que detecte los bordes de la columna vertebral para diferenciarla del fondo de la imagen y el interior. Utilizar un metodo de clasificacion
   para comparar los procesamientos elegidos con los de la maquina encargada de lo mismo. 
